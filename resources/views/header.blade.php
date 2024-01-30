@@ -2,13 +2,13 @@
 <html data-wf-domain="beauteria.webflow.io" data-wf-page="619bd2a0d30852b185827204" data-wf-site="619bd2a0d308525360827203">
 <head>
     <meta charset="utf-8"/>
-    <title>Beauteria – Webflow HTML website template</title>
-    <meta content="Beauteria – Webflow HTML website template" name="description"/>
-    <meta content="Beauteria – Webflow HTML website template" property="og:title"/>
-    <meta content="Beauteria – Webflow HTML website template" property="og:description"/>
+    <title>VMS Distribuidora</title>
+    <meta content="VMS Distribuidora" name="description"/>
+    <meta content="VMS Distribuidora" property="og:title"/>
+    <meta content="VMS Distribuidora" property="og:description"/>
     <meta content="https://assets.website-files.com/619bd2a0d308525360827203/61d5ddda2c41e47ef1b75eb8_Cover.jpeg" property="og:image"/>
-    <meta content="Beauteria – Webflow HTML website template" property="twitter:title"/>
-    <meta content="Beauteria – Webflow HTML website template" property="twitter:description"/>
+    <meta content="VMS Distribuidora" property="twitter:title"/>
+    <meta content="VMS Distribuidora" property="twitter:description"/>
     <meta content="https://assets.website-files.com/619bd2a0d308525360827203/61d5ddda2c41e47ef1b75eb8_Cover.jpeg" property="twitter:image"/>
     <meta property="og:type" content="website"/>
     <meta content="summary_large_image" name="twitter:card"/>
