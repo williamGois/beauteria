@@ -341,7 +341,10 @@
                         <div class="decorative">Endereço</div>
                         <div class="content">
                             <h2 class="_16-bottom-margin">VMS Distribuidora</h2>
-                            <p class="paragraph large light">No. 14, Goiânia</p>
+                            <p class="paragraph large light">Av Liberdade Qd.202 Lt.01 GALPAO 02</p>
+                            <p class="paragraph large light">Jardim Buriti Sereno</p>
+                            <p class="paragraph large light">Aparecida de Goiânia - GO</p>
+                            <p class="paragraph large light">74.943-400</p>
                         </div>
                     </div>
                 </div>
@@ -390,7 +393,7 @@
                                 </div>
 
                                 <div class="links-container">
-                                    <a href="mailto:comercial@vmsdistribuidora.com.br" class="footer-small-link">comercial@vmsdistribuidora.com.br</a>
+                                    <a href="mailto:adm@vms.ind.br" class="footer-small-link">adm@vms.ind.br</a>
                                     <a href="https://www.facebook.com/" class="footer-small-link">facebook</a>
                                     <a href="https://www.instagram.com/" class="footer-small-link">instagram</a>
                                 </div>
