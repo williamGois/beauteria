@@ -45,7 +45,7 @@
         <div class="page-overlay">
             <div class="overlay-transition"></div>
             <div class="logo-loader-wrapper">
-                <img src="{{ asset('images/vms.png') }}" loading="lazy" alt="Logo" class="page-loader-logo"/>
+                <img src="{{ asset('images/VMS-01-PNG.png') }}" loading="lazy" alt="Logo" class="page-loader-logo"/>
             </div>
         </div>
         <div data-animation="default" data-collapse="medium" data-duration="400" data-easing="ease" data-easing2="ease" role="banner" class="navigation w-nav">
@@ -53,7 +53,7 @@
                 <div class="nav-grid">
                     <div class="brand-logo-wrapper">
                         <a href="/" aria-current="page" class="nav-brand w-nav-brand w--current">
-                            <img src="{{ asset('images/vms.png') }}" loading="lazy" alt="Logo" class="brand-img"/>
+                            <img src="{{ asset('images/VMS-01-PNG.png') }}" loading="lazy" alt="Logo" class="brand-img"/>
                         </a>
                     </div>
                     <nav role="navigation" class="menu-nav w-nav-menu">
@@ -355,7 +355,7 @@
                         <div class="grid-item _50 tablet-100">
                             <div class="footer-items-wrapper">
                                 <a href="#" class="footer-logo w-inline-block">
-                                    <img src="{{ asset('images/vms.png') }}" loading="lazy" alt="Logo" class="footer-logo-img"/>
+                                    <img src="{{ asset('images/VMS-01-PNG.png') }}" loading="lazy" alt="Logo" class="footer-logo-img"/>
                                 </a>
                             </div>
                         </div>

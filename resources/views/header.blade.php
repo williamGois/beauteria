@@ -14,7 +14,7 @@
     <meta content="summary_large_image" name="twitter:card"/>
     <meta content="width=device-width, initial-scale=1" name="viewport"/>
     <meta content="Webflow" name="generator"/>
-    <link href="https://assets.website-files.com/619bd2a0d308525360827203/css/beauteria.webflow.0080e2b02.css" rel="stylesheet" type="text/css"/>
+    <link href="{{ asset('css/vms.css') }}" rel="stylesheet" type="text/css"/>
     <link href="https://fonts.googleapis.com" rel="preconnect"/>
     <link href="https://fonts.gstatic.com" rel="preconnect" crossorigin="anonymous"/>
     <script src="https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js" type="text/javascript"></script>
