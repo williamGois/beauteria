@@ -84,7 +84,7 @@
                             <div class="hero-heading-wrapper">
                                 <h1>Destacamos a singularidade natural de cada um.</h1>
                                 <div class="hero-description-wrapper">
-                                    <p class="paragraph grey">Na Vollmens Fragrances, cada fragrância é uma celebração da sua singularidade. Descubra aromas que realçam sua essência única e transformam a arte da perfumaria em uma expressão pessoal inconfundível.</p>
+                                    <p class="paragraph grey">Cada fragrância é uma celebração da sua singularidade. Descubra aromas que realçam sua essência única e transformam a arte da perfumaria em uma expressão pessoal inconfundível.</p>
                                 </div>
                             </div>
                         </div>
@@ -92,14 +92,14 @@
                             <div class="hero-img-container">
                                 <div class="hero-img-wrapper">
                                     <img src="https://assets.website-files.com/619bd2a0d308525360827203/619fe21aeb17e0dcaab2294a_img-main.jpeg" loading="lazy" alt="Woman" sizes="(max-width: 479px) 92vw, (max-width: 767px) 95vw, (max-width: 991px) 65vw, 64vw" srcset="https://assets.website-files.com/619bd2a0d308525360827203/619fe21aeb17e0dcaab2294a_img-main-p-500.jpeg 500w, https://assets.website-files.com/619bd2a0d308525360827203/619fe21aeb17e0dcaab2294a_img-main-p-1080.jpeg 1080w, https://assets.website-files.com/619bd2a0d308525360827203/619fe21aeb17e0dcaab2294a_img-main.jpeg 1486w" class="hero-img"/>
-                                    <div class="hero-button-wrapper">
+                                    <!-- <div class="hero-button-wrapper">
                                         <a href="#Services" style="-webkit-transform:translate3d(0, 0, 0) scale3d(0, 0, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(0, 0, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(0, 0, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(0, 0, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)" class="button primary w-inline-block">
                                             <div class="button-content">
                                                 <div class="button-text">Nossos Serviços</div>
                                             </div>
                                             <div class="button-bg"></div>
                                         </a>
-                                    </div>
+                                    </div> -->
                                 </div>
                             </div>
                         </div>
@@ -130,7 +130,7 @@
                     <div class="center-block">
                         <div data-w-id="b8ab5825-ec57-18a0-e648-c8bf3250c041" class="center-content-wrapper">
                             <h3>Aroma, a Essência da Memória</h3>
-                            <p>Na Vollmens Fragrances, transformamos essências em experiências memoráveis. Cada fragrância é uma viagem sensorial, criando momentos inesquecíveis e personalizados. Nosso compromisso é com a inovação e a qualidade, para que cada aroma seja uma assinatura única de emoções e sensações.</p>
+                            <p>Transformamos essências em experiências memoráveis. Cada fragrância é uma viagem sensorial, criando momentos inesquecíveis e personalizados. Nosso compromisso é com a inovação e a qualidade, para que cada aroma seja uma assinatura única de emoções e sensações.</p>
                             <div class="spacer _20"></div>
                         </div>
                     </div>
@@ -144,7 +144,7 @@
                                 <div class="decorative">Cuide-se</div>
                                 <h2>Nossos Segmentos</h2>
                                 <div class="grey">
-                                    <p class="paragraph">Na Vollmens Fragrances, nossos segmentos refletem a paixão e a expertise na arte da perfumaria. Com uma abordagem inovadora e criativa, desenvolvemos fragrâncias únicas para diversas aplicações, desde perfumes pessoais até soluções para ambientes e produtos de cuidado pessoal.</p>
+                                    <p class="paragraph">Nossos segmentos refletem a paixão e a expertise na arte da perfumaria. Com uma abordagem inovadora e criativa, desenvolvemos fragrâncias únicas para diversas aplicações, desde perfumes pessoais até soluções para ambientes e produtos de cuidado pessoal.</p>
                                 </div>
                                 <div class="specialist-wrapper">
                                     <div class="w-dyn-list">
@@ -254,6 +254,10 @@
                                 <div class="hero-description-wrapper">
                                     <p class="paragraph grey">Nossa paixão e expertise nos permitem transformar ingredientes naturais em experiências olfativas únicas, conectando pessoas através do poder dos aromas. Descubra um mundo onde cada fragrância é uma jornada sensorial inesquecível.</p>
                                 </div>
+
+                                <a href="https://vollmensfragrances.com.br/" target="_blank">
+                                    <img src="{{ asset('images/vollmens.png') }}" style="    margin-top: 24px; width: 30%;" alt="Vollmens Fragrances Logo" class="logo-vollmens">
+                                </a>
                             </div>
                         </div>
                         <div class="grid-item _40 landscape-100">
