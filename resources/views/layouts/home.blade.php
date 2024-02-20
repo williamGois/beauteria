@@ -256,7 +256,7 @@
                                 </div>
 
                                 <a href="https://vollmensfragrances.com.br/" target="_blank">
-                                    <img src="{{ asset('images/vollmens.jpg') }}" style="    margin-top: 24px; width: 40%;" alt="Vollmens Fragrances Logo" class="logo-vollmens">
+                                    <img src="{{ asset('images/vollmens.png') }}" style="    margin-top: 24px; width: 40%;" alt="Vollmens Fragrances Logo" class="logo-vollmens">
                                 </a>
                             </div>
                         </div>
